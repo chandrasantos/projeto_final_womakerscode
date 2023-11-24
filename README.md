@@ -52,12 +52,12 @@ Está sendo realizado nesse repositório.
 
 ### Barra de Pesquisa: Criar uma barra de pesquisa que permite aos usuários procurar postagens por palavras-chave, facilitando a navegação no blog.
 
-## Administração do Django
+## 4] Administração do Django
 
 ### Interface de Administração
 Garantir que os administradores do sistema possam gerenciar facilmente as postagens do blog usando a interface de administração do Django, tornando a manutenção do blog eficiente e amigável.
 
-### Publique seu site utilizando o Heroku ou PythonAnywhere
+## 5] Publique seu site utilizando o Heroku ou PythonAnywhere
 O projeto deve ser entregue e hospedado em um servidor acessível publicamente, com opções como Heroku e PythonAnywhere
 
 Link: 
