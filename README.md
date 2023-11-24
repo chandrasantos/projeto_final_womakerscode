@@ -54,11 +54,11 @@ Está sendo realizado nesse repositório.
 
 ## Administração do Django
 
-### Interface de Administração: Garantir que os administradores do sistema possam gerenciar facilmente as postagens do blog usando a interface de administração do Django, tornando a manutenção do blog eficiente e amigável.
+### Interface de Administração
+Garantir que os administradores do sistema possam gerenciar facilmente as postagens do blog usando a interface de administração do Django, tornando a manutenção do blog eficiente e amigável.
 
 ### Publique seu site utilizando o Heroku ou PythonAnywhere
-
-### O projeto deve ser entregue e hospedado em um servidor acessível publicamente, com opções como Heroku e PythonAnywhere
+O projeto deve ser entregue e hospedado em um servidor acessível publicamente, com opções como Heroku e PythonAnywhere
 
 Link: 
 
