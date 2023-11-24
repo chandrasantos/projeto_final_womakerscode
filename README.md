@@ -35,6 +35,9 @@ django-admin  startproject projetoblog .
 Está sendo realizado nesse repositório.
 
 ### Banco de Dados: Configurar um banco de dados SQLite ou PostgreSQL para armazenar as informações do blog.
+Usei o Dbeaver para criar um banco de dados SQLite na mesma pasta Blog onde está instalado o Django. Criei o arquivo bancodedados.py na mesma pasta para fazer a conexão. Criei a tabela Usuarios para registrar os administradores do blog e inseri os dados deles.
+
+cursor.execute('INSERT INTO usuarios (id, nome, email, senha) VALUES (1, "administrador", "administrador@blog.com", "Mudar@123")')
 
 ### Modelos Django: Definir modelos Django que representam as postagens do blog, incluindo título, conteúdo, data de publicação e autor.
 
