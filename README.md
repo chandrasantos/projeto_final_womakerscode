@@ -10,7 +10,7 @@ Escolhi o tema data analytics, pois, já tenho conhecimento aprofundado, queria 
 
 ## 1] Especificações técnicas
 
-# Ambiente de Desenvolvimento: Configurar um ambiente virtual Django local
+### Ambiente de Desenvolvimento: Configurar um ambiente virtual Django local
 
 Para configurar a pasta do projeto no meu desktop usei o terminal do VS Code. 
 
@@ -30,35 +30,35 @@ pip install django
 Após a instalar usei o comando abaixo para iniciar o projeto do django na área de desenvolvimento: 
 django-admin  startproject projetoblog .
 
-# Controle de Versão com Git: Criar um repositório no GitHub e manter um registro claro de todas as alterações no projeto, permitindo o acompanhamento do progresso.
+### Controle de Versão com Git: Criar um repositório no GitHub e manter um registro claro de todas as alterações no projeto, permitindo o acompanhamento do progresso.
 
 Está sendo realizado nesse repositório.
 
-# Banco de Dados: Configurar um banco de dados SQLite ou PostgreSQL para armazenar as informações do blog.
+### Banco de Dados: Configurar um banco de dados SQLite ou PostgreSQL para armazenar as informações do blog.
 
-# Modelos Django: Definir modelos Django que representam as postagens do blog, incluindo título, conteúdo, data de publicação e autor.
+### Modelos Django: Definir modelos Django que representam as postagens do blog, incluindo título, conteúdo, data de publicação e autor.
 
-# Design Responsivo: Desenvolver um design responsivo usando HTML5, CSS3 e Bootstrap para garantir que o blog seja acessível em dispositivos móveis.
+### Design Responsivo: Desenvolver um design responsivo usando HTML5, CSS3 e Bootstrap para garantir que o blog seja acessível em dispositivos móveis.
 
 ## Estrutura e Requisitos
 
 ## 2] Funcionalidades do blog
 
-# Página Inicial: Criar uma página inicial que exiba todas as postagens em ordem cronológica, permitindo aos usuários explorar o conteúdo facilmente.
+### Página Inicial: Criar uma página inicial que exiba todas as postagens em ordem cronológica, permitindo aos usuários explorar o conteúdo facilmente.
 
-# Páginas de Detalhes: Implementar páginas de detalhes para visualização individual das postagens.
+### Páginas de Detalhes: Implementar páginas de detalhes para visualização individual das postagens.
 
-# Gerenciamento de postagens: Adicionar a capacidade de editar e excluir postagens, proporcionando controle sobre o conteúdo do blog.
+### Gerenciamento de postagens: Adicionar a capacidade de editar e excluir postagens, proporcionando controle sobre o conteúdo do blog.
 
-# Barra de Pesquisa: Criar uma barra de pesquisa que permite aos usuários procurar postagens por palavras-chave, facilitando a navegação no blog.
+### Barra de Pesquisa: Criar uma barra de pesquisa que permite aos usuários procurar postagens por palavras-chave, facilitando a navegação no blog.
 
 ## Administração do Django
 
-# Interface de Administração: Garantir que os administradores do sistema possam gerenciar facilmente as postagens do blog usando a interface de administração do Django, tornando a manutenção do blog eficiente e amigável.
+### Interface de Administração: Garantir que os administradores do sistema possam gerenciar facilmente as postagens do blog usando a interface de administração do Django, tornando a manutenção do blog eficiente e amigável.
 
-## Publique seu site utilizando o Heroku ou PythonAnywhere
+### Publique seu site utilizando o Heroku ou PythonAnywhere
 
-# O projeto deve ser entregue e hospedado em um servidor acessível publicamente, com opções como Heroku e PythonAnywhere
+### O projeto deve ser entregue e hospedado em um servidor acessível publicamente, com opções como Heroku e PythonAnywhere
 
 Link: 
 
