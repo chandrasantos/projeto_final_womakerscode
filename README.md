@@ -5,6 +5,9 @@ Projeto final do Bootcamp da WoMakersCode de desenvolvimento back-end com Python
 Escolhi o tema data analytics, pois, já tenho conhecimento aprofundado, queria rever alguns conceitos e pretendo usá-lo para difundir conhecimento na comunidade tech - principalmente, para mulheres que estão em transição de carreira. 
 
 # Documentação do projeto
+
+## Estrutura e Requisitos
+
 Para configurar a pasta do projeto no meu desktop usei o terminal do VS Code. 
 
 Digitei o comando a seguir para criar a pasta:
